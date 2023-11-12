@@ -2,7 +2,7 @@
   "name": "api-postgres",
   "version": "1.0.0",
   "description": "RESTful API with Node.js, Express, and PostgreSQL",
-  "main": "src/index.js",
+  "main": "./db-config/index.js",
   "scripts": {
     "start": "node .",
     "dev": "node --watch ."
